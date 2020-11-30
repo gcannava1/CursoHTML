@@ -1,0 +1,43 @@
+    #bandos1 {
+        color: cyan;
+        border-bottom-style: double;
+        font-size: 150%;
+    }
+
+    #imperio {
+        font-style: oblique;
+        font-size: larger;
+    }
+    .imperio1 {
+        background-color: brown;
+        color: chartreuse;
+    }
+
+    .rebelde {
+        background-color: darkcyan;
+    }
+
+    #lider {
+        font-size: xx-large;
+    }
+
+    #luke {
+        font-size: xx-large;
+        font-style: italic;
+    }
+    
+    .borde_soldado {
+        border-inline-end-style: inherit;
+        border-radius: 50%;
+        border-color: darkgoldenrod;
+    }
+    .letras_soldado {
+        letter-spacing: 20px;
+        font-family: fantasy;
+    }
+    .apoyo {
+        text-align: center;
+    }
+    .naves {
+       text-transform: uppercase; 
+    }
